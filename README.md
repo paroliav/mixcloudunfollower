@@ -10,3 +10,6 @@ Run JAR using - java -jar mixcloud-unfollower.jar
 
 
 The Unfollower will ask you how many artists you want to unfollow. Provide a number, sit back and relax!!
+
+- Currently allows deletion of 9 artists every 15 minutes due to limitation of API
+
