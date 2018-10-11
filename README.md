@@ -13,3 +13,5 @@ The Unfollower will ask you how many artists you want to unfollow. Provide a num
 
 - Currently allows deletion of 9 artists every 15 minutes due to limitation of API
 
+- Needs authorisation by logging in and finding the ouath code
+
