@@ -17,4 +17,10 @@ The Unfollower will ask you how many artists you want to unfollow. Provide a num
 
 - Then finds out the accesstoken
 
-- get info from /me API 
+- get info from /me API
+
+- gets followings using acesstoken and limit (currently 100 at a time)
+
+- starts deleting the followings
+
+API documentation can be found here - https://www.mixcloud.com/developers/ 
