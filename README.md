@@ -15,3 +15,6 @@ The Unfollower will ask you how many artists you want to unfollow. Provide a num
 
 - Needs authorisation by logging in and finding the ouath code
 
+- Then finds out the accesstoken
+
+- get info from /me API 
