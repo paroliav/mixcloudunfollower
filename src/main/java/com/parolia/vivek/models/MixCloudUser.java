@@ -8,10 +8,6 @@ import lombok.Setter;
 @Setter
 public class MixCloudUser {
 
-    private String username = "dale.ashworth@yahoo.com";
-
-    private String password = "whosyourdaddy7";
-
     private String accessToken;
 
     private String oauthCode = "u7bcgYVynn";
